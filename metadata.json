@@ -1,0 +1,6 @@
+{
+  "name": "ApeX Training: Overload & Program Logger",
+  "description": "Complete training logger APK with automated progressive overload calculations, audio rest timer, workout analytics, and AI-powered training program advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
